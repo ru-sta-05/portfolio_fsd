@@ -389,16 +389,7 @@ footer a:hover {
 
 /* Desktop */
 @media (min-width: 768px) {
-        #home {
-        flex-direction: row;
-        justify-content: space-around;
-        text-align: left;
-    }
-
-    .home-animation img {
-        width: 250px;
-        margin-top: 0;
-    }
+        
     section {
         max-width: 1000px;
         margin: auto;
